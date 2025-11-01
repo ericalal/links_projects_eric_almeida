@@ -22,7 +22,17 @@
   justify-content: space-between;
 }
 
+.social_media__logo a {
+  text-decoration: none;
+  display: flex;
+}
+
 .logo-instagram {
+  width: 50px;
+  height: 50px;
+}
+
+.logo-linkedin {
   width: 50px;
   height: 50px;
 }
