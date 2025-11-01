@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  margin: 80px 0 100px;
+}
+
+.header__photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0px auto 30px;
+}
+
+.header__tittle {
+  width: 850px;
+  height: 109px;
+  color: #f2f2f2;
+  font-weight: 900;
+  font-size: 70px;
+  line-height: 100px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 0 auto 15px;
+}
+
+.header__subtitle {
+  width: 373px;
+  height: 71px;
+  color: #f2f2f2;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 0 auto 30px;
+}
