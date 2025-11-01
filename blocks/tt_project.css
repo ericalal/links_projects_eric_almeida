@@ -55,19 +55,3 @@
   height: 250px;
   border-radius: 20px;
 }
-
-/* LIBRARY PROJECT */
-
-.tt__library {
-  width: 951px;
-  height: 195px;
-}
-
-.tt__library_block {
-  width: 872px;
-  height: 179px;
-  background-color: #001147;
-  position: absolute;
-  top: 316px;
-  left: 173px;
-}
