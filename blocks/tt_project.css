@@ -1,10 +1,11 @@
 .tt_project {
   width: 1306px;
-  height: 1400px;
+  height: 1450px;
   margin: 0px auto 0px;
   background-color: #a6a6a6;
   border-radius: 20px;
   display: flex;
+  flex-wrap: wrap;
   position: absolute;
   right: -78px;
 }
@@ -54,4 +55,10 @@
   width: 250x;
   height: 250px;
   border-radius: 20px;
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 320px) {
 }
