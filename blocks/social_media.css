@@ -31,3 +31,44 @@
   width: 50px;
   height: 50px;
 }
+
+@media screen and (max-width: 768px) {
+  .social_media {
+    width: 310px;
+    height: 126px;
+  }
+
+  .social_media__title {
+    width: 290px;
+    height: 40px;
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .social_media {
+    width: 200px;
+    height: 126px;
+  }
+
+  .social_media__title {
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+
+  .social_media__logo {
+    width: 100px;
+  }
+
+  .logo-instagram {
+    width: 30px;
+    height: 30px;
+  }
+
+  .logo-linkedin {
+    width: 30px;
+    height: 30px;
+  }
+}

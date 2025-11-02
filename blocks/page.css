@@ -6,3 +6,20 @@
   background-color: #035b6a;
   border-radius: 20px;
 }
+
+@media screen and (max-width: 768px) {
+  .page {
+    width: 728px;
+    height: 3000px;
+    margin: 5px auto 5px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    width: 320px;
+    height: 3000px;
+    padding: 10px auto 10px;
+    margin: 0px auto 0px;
+  }
+}
