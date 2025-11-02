@@ -1,6 +1,6 @@
 .tt_project {
   width: 1306px;
-  height: 1102px;
+  height: 1400px;
   margin: 0px auto 0px;
   background-color: #a6a6a6;
   border-radius: 20px;
@@ -29,7 +29,7 @@
 .tt_title {
   width: 563.7px;
   height: 131.1 px;
-  color: #000000;
+  color: #fafafa;
   font-weight: 900;
   font-size: 82px;
   line-height: 100px;
@@ -41,7 +41,7 @@
 .tt__subtitle {
   width: 409.6px;
   height: 85.9px;
-  color: #000000;
+  color: #fafafa;
   font-weight: 900;
   font-size: 54px;
   line-height: 36px;
