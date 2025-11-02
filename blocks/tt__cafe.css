@@ -1,25 +1,25 @@
-/* LIBRARY PROJECT */
+/* CAFÉ PROJECT */
 
-.card__library__container {
+.card__cafe__container {
   width: 432px;
   height: 432px;
   background-color: #f2f1ee;
   border-radius: 20px;
   padding: 29px 32px 29px;
   margin: 300px auto 0px;
-  margin-right: 40px;
+  margin-left: 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
 }
 
-.card__library__video-container {
+.card__cafe__video-container {
   width: 432px;
   height: 157px;
 }
 
-.card_library-video {
+.card_cafe-video {
   width: 432px;
   height: 157px;
   border-radius: 10px;
